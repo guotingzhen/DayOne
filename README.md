@@ -1,9 +1,9 @@
-#Hi there 👋
-##思考不只是人们生存的手段，更是人们的欲望与意义
+Hi there 👋
+思考不只是人们生存的手段，更是人们的欲望与意义
 
-#Hi，我叫二环路扛把子。TikTok 研发工程师，VSCode Contributor & 忠实用户。
+Hi，我叫二环路扛把子。TikTok 研发工程师，VSCode Contributor & 忠实用户。
 
-#个人项目
+个人项目
 VSCode 插件
 Pure GPT - 支持在 VSCode Chat View 中与 Pure GPT 而非 Copilot 对话
 Quick Voice Note - 一键在 VSCode 中创建语音笔记
